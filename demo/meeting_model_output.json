@@ -1,0 +1,44 @@
+{
+  "title": "UAV Disaster Response System",
+  "date": "27 Nov 2025",
+  "attendees": [
+    "Ashutosh (Avionics Lead)",
+    "Priya (Software Lead)",
+    "Rohan (Mechanical Lead)",
+    "Meera (Project Manager)"
+  ],
+  "decisions": [
+    "Finalize the flight plan workflow and integration tasks.",
+    "Keep the spotlight module for the demo."
+  ],
+  "key_points": [
+    "Autopilot tuning is 90% done with minor yaw oscillations.",
+    "Path-planning module is ready with new features.",
+    "Integration with thermal camera API is pending due to SDK instability.",
+    "Battery endurance is around 22 minutes with full payload."
+  ],
+  "action_items": [
+    {
+      "task": "Closed-loop flight test of grid search mode",
+      "assignee": "Ashutosh",
+      "due_date": "2025-11-27"
+    },
+    {
+      "task": "Thermal camera integration",
+      "assignee": "Priya",
+      "due_date": "2025-11-27"
+    },
+    {
+      "task": "Updated endurance report",
+      "assignee": "Rohan",
+      "due_date": "2025-11-27"
+    },
+    {
+      "task": "Demo-ready UI",
+      "assignee": "Priya",
+      "due_date": "2025-11-27"
+    }
+  ],
+  "summary": "The meeting focused on finalizing the flight plan workflow and
+   integration tasks for the upcoming field demo. Key updates were provided on avionics, software, and hardware aspects, with action items assigned to ensure readiness for the demo."
+}
